@@ -1,0 +1,31 @@
+.img-carta {
+  padding-right: 50%;
+  padding-top: 10px;
+}
+
+h1 {
+  text-align: center;
+  color: darkgreen;
+  font-size: 50px;
+  font-family: cursive;
+}
+
+.nome {
+  margin-left: 20%;
+  margin-top: -1925%;
+}
+
+.tipo {
+  margin-left: 20%;
+  margin-top: -2550%;
+}
+
+.raridade {
+  margin-left: 20%;
+  margin-top: -2550%;
+}
+
+.set {
+  margin-left: 20%;
+  margin-top: -2550%;
+}
